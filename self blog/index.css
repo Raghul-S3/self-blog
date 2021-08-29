@@ -386,21 +386,7 @@ input[type=text], select, textarea {
     display: table;
     clear: both;
   }
-  .footer{
-      width: 100%;
-      height: 15vh;
-      background-color: rgba(48, 23, 23, 0.1);
-      display: flex;
-      justify-content: space-evenly;
-  }
-  .footer a {
-      cursor: pointer;
-  }
-  .social_icon {
-      width:10%;
-      height:100%;
-      background-color:white;
-}
+
 @media screen and (max-width:480px){
     /* home sec beginning */
     .home_txt {
