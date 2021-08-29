@@ -506,6 +506,6 @@ input[type=text], select, textarea {
         background-color: rgba(43, 255, 0, 0.3);
         text-align: center;
         padding-top: 7px;
-        font-size: 13px;
+        font-size: 12px;
     }
 }
